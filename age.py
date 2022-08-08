@@ -9,7 +9,7 @@ if driving == '有':
     else:
         print ('奇怪 你怎麼會開車?')
 else driving == '沒有':
-	if age >= 18:
+    if age >= 18:
         print('你可以去考駕照了!')
     else:
         print ('很好, 再過幾年舊型考駕照了!')
